@@ -1,0 +1,6 @@
+2024-11-17 19:35:11,674 - INFO - ejemplo@prueba.com es válido
+2024-11-17 19:35:11,675 - INFO - nombre@dominio.com es válido
+2024-11-17 19:35:11,675 - WARNING - ejemploprueba.com no es válido
+2024-11-17 19:35:11,675 - WARNING - ejemplo@domain no es válido
+2024-11-17 19:35:11,675 - WARNING - ejemplo@!domain.com no es válido
+2024-11-17 19:35:11,675 - WARNING - ejemplo@domain.587 no es válido
